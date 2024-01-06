@@ -15,7 +15,7 @@
 
 ## Intro
 
-The minimal Raspbian unattended netinstaller for Raspberry Pi Model 1B to 3B+.
+The minimalist installer of ivanos
 
 This project provides [Raspbian][1] power users the possibility to install a minimal base system unattended using latest Raspbian packages regardless when the installer was built.
 
